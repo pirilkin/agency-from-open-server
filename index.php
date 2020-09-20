@@ -21,7 +21,6 @@
 	<div class="wrap">
 		<a id="call" class="call" href="#">
 			<div class="btn-phone-wrap">
-				
 				<div class="btn-phone">
 					<div class="text-hover">
 						<img class="fa-phone" src="./img/phone.png" alt="">
